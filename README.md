@@ -1,4 +1,4 @@
-# Provincias-y-municipios resumen de la página
+# Provincias y municipios
 
 ## Funcionalidad
 
