@@ -1,0 +1,40 @@
+/* style.css */
+
+/* El estilo lo cree con la IA de edge; Bing, el motor de búsqueda de Microsoft*/
+
+/* Establecer un color de fondo oscuro para el cuerpo */
+body {
+    background-color: #222;
+    color: white; /* Establecer un color de texto blanco para el contraste */
+    font-family: Arial, sans-serif; /* Establecer una fuente sans-serif */
+}
+
+/* Establecer un color de fondo más claro para los encabezados */
+h1, h2 {
+    background-color: #333;
+    padding: 10px; /* Añadir un poco de espacio alrededor del texto */
+}
+
+/* Establecer un color de borde y un ancho para los selectores */
+select {
+    border: 2px solid #444;
+    width: 200px; /* Ajustar el ancho según se desee */
+}
+
+/* Establecer un color de fondo y un color de texto para las opciones */
+option {
+    background-color: #555;
+    color: white;
+}
+
+/* Establecer un color de fondo y un color de texto para la opción seleccionada */
+option:checked {
+    background-color: #666;
+    color: white;
+}
+
+/* Establecer un color de fondo y un color de texto para el foco del selector */
+select:focus {
+    background-color: #777;
+    color: white;
+}
